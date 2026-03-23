@@ -1,9 +1,27 @@
 🛒 Gojolito Store
 
+Gojolito Store es una tienda virtual enfocada en el diseño de interfaces modernas y experiencia de usuario. El proyecto está desarrollado completamente en frontend, priorizando la estructura visual, navegación y usabilidad.
 
-Welcome to Gojolito Store, a virtual storefront designed using Bootstrap. While this project focuses purely on the frontend (no JavaScript functionalities), the design elements, buttons, and redirections are fully functional, showcasing a clean and user-friendly interface.
+🚀 Demo  
+https://gojolitostore.netlify.app
 
-🎉 Live Demo
-Experience it in action: gojolitostore.netlify.app
+🧠 Qué demuestra este proyecto
+- Diseño de interfaz tipo e-commerce
+- Maquetado responsive con Bootstrap
+- Organización de componentes visuales
+- Navegación entre secciones simulando flujo real de compra
+- Enfoque en UX/UI
 
-This version emphasizes the project’s features and makes it visually appealing for a GitHub audience. Let me know if you'd like further adjustments!	
+✨ Funcionalidades
+- Catálogo de productos con diseño limpio
+- Botones y navegación funcional (sin lógica backend)
+- Redirecciones entre páginas simulando flujo de compra
+- Layout adaptable a distintos dispositivos
+
+⚙️ Tecnologías utilizadas
+- HTML
+- CSS
+- Bootstrap
+
+📌 Nota
+Este proyecto está orientado a demostrar habilidades de frontend y diseño de interfaz. No cuenta con backend ni lógica de negocio.
